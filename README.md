@@ -1,16 +1,38 @@
-## Hi there 👋
+<h1 align="center">
+Hi there 👋, I'm Meriem Afaf HADDOU
+</h1>
 
-<!--
-**MeriemAfafHaddou/MeriemAfafHaddou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+|+ML+Enthusiast;Fascinated+by+ML+in+Medical+Imaging+!" alt="Typing SVG" /></a>
+</p>
 
-Here are some ideas to get you started:
+### A software engineer passionate about solving problems, building functional solutions, and optimizing them for efficiency.
+- 💻 Currently working as a Python Developer @ Intersec Group, where I develop specific features for clients in the telecom and geolocation sectors.
+- 🧠 Previously worked on concept drift detection in Online Machine Learning using Optimal Transport.
+- 📚 Currently learning Machine Learning qnd Computer Vision.
+- 💬 Feel free to ask me about **Python, Concept Drift...or anything [here](https://github.com/MeriemAfafHaddou/MeriemAfafHaddou/issues)**
+<br>
+<div align="center">
+  <a href="jm_haddou@esi.dz">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/meriem-afaf-haddou-791964227/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages and Tools
+
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,git,aws,docker,linux,mysql,postman" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,arduino,raspberrypi,flutter" />
+</p>
+
+## 🐍 My Contributions
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Berrah-SidAhmed/Berrah-SidAhmed/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Berrah-SidAhmed/Berrah-SidAhmed/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/Berrah-SidAhmed/output/github-snake.svg" />
+</picture>
