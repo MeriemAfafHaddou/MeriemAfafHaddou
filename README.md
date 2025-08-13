@@ -3,13 +3,13 @@ Hi there 👋, I'm Meriem Afaf HADDOU
 </h1>
 
 <p align='center'>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Software+Engineer+|+ML+Enthusiast;Fascinated+by+ML+in+Medical+Imaging+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=c77dff&width=500&lines=Software+Engineer+|+ML+Enthusiast;Fascinated+by+bridging+theory+and+code+!" alt="Typing SVG" /></a>
 </p>
 
 ### A software engineer passionate about solving problems, building functional solutions, and optimizing them for efficiency.
 - 💻 Currently working as a Python Developer @ Intersec Group, where I develop specific features for clients in the telecom and geolocation sectors.
 - 🧠 Previously worked on concept drift detection in Online Machine Learning using Optimal Transport.
-- 📚 Currently learning Machine Learning qnd Computer Vision.
+- 📚 Currently learning Machine Learning and Computer Vision.
 - 💬 Feel free to ask me about **Python, Concept Drift...or anything [here](https://github.com/MeriemAfafHaddou/MeriemAfafHaddou/issues)**
 <br>
 <div align="center">
