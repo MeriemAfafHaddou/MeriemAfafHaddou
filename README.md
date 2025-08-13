@@ -7,7 +7,7 @@ Hi there 👋, I'm Meriem Afaf HADDOU
 </p>
 
 ### A software engineer passionate about solving problems, building functional solutions, and optimizing them.
-- 💻 Currently working as a Python Developer @ Intersec Group, where I develop specific features for clients in the telecom and geolocation sectors.
+- 💻 Currently working as a Python Developer @Intersec, where I develop specific features for clients in the telecom and geolocation sectors.
 - 🧠 Previously worked on concept drift detection in Online Machine Learning using Optimal Transport.
 - 📚 Currently learning Machine Learning and Computer Vision.
 - 💬 Feel free to ask me about **Python, Concept Drift...or anything [here](https://github.com/MeriemAfafHaddou/MeriemAfafHaddou/issues)**
