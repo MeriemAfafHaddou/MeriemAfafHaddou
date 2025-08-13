@@ -13,7 +13,7 @@ Hi there 👋, I'm Meriem Afaf HADDOU
 - 💬 Feel free to ask me about **Python, Concept Drift...or anything [here](https://github.com/MeriemAfafHaddou/MeriemAfafHaddou/issues)**
 <br>
 <div align="center">
-  <a href="jm_haddou@esi.dz">
+  <a href="mailto:jm_haddou@esi.dz">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/meriem-afaf-haddou-791964227/" target="_blank">
