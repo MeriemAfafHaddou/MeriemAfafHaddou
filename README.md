@@ -10,7 +10,6 @@ Hi there 👋, I'm Meriem Afaf HADDOU
 - 💻 Currently working as a Python Developer @Intersec, where I develop specific features for clients in the telecom and geolocation sectors.
 - 🧠 Previously worked on concept drift detection in Online Machine Learning using Optimal Transport.
 - 📚 Currently learning Machine Learning and Computer Vision.
-- 💬 Feel free to ask me about **Python, Concept Drift...or anything [here](https://github.com/MeriemAfafHaddou/MeriemAfafHaddou/issues)**
 <br>
 <div align="center">
   <a href="mailto:jm_haddou@esi.dz">
