@@ -4,7 +4,7 @@ Hi there 👋, I'm Meriem Afaf HADDOU
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=c77dff&center=true&width=650&lines=Full-Stack+Software+Engineer;Python+%7C+Django+%7C+FastAPI+%7C+Vue.js;Building+reliable+software+that+lasts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=c77dff&center=true&width=650&lines=Software+Engineer;Python+%7C+Django+%7C+FastAPI+%7C+Vue.js;Building+reliable+software+that+lasts" alt="Typing SVG" />
 </a>
 </p>
 
