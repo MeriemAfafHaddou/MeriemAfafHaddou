@@ -35,5 +35,5 @@ My research experience includes concept drift detection, while my projects have 
 ## Technical Background
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,fastapi,vue,js,html,css,mysql,postgres,docker,git,linux,postman,aws" />
+  <img src="https://skillicons.dev/icons?i=py,pytorch,django,fastapi,vue,js,postgres,mysql,docker,git,linux,postman" />
 </p>
