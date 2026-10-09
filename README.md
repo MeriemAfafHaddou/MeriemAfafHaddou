@@ -1,20 +1,24 @@
 <h1 align="center">
-Hi there 👋, I'm Meriem Afaf HADDOU
+Hi, I'm Meriem Afaf Haddou 👋
 </h1>
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1200&color=c77dff&center=true&width=650&lines=Software+Engineer;Python+%7C+Django+%7C+FastAPI+%7C+Vue.js;Building+reliable+software+that+lasts" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=c77dff&center=true&width=650&lines=Computer+Science+Engineer;Software+Engineering+%26+Machine+Learning;Curious+about+what+lies+beneath+the+results" alt="Typing SVG" />
 </a>
 </p>
 
-## 👋 About Me
+## About Me
 
-I'm a Full-Stack Software Engineer with a strong focus on Python backend development. I enjoy building reliable web applications, designing clean APIs, integrating external services, and solving real engineering problems.
+I'm a Computer Science Engineer with a background in software development and machine learning research. I enjoy digging into problems, questioning assumptions, and understanding what the results actually tell us.
 
-Currently, I'm working at **Intersec**, where I develop production software for clients in the telecom and geolocation industries. My work involves backend development, system integrations, data processing, and maintaining large codebases.
+My research experience includes concept drift detection, while my projects have led me to explore model reliability, uncertainty, and AI for medical applications.
 
-Outside of work, I'm continuously improving my engineering skills through coding challenges, personal projects, and learning software architecture, machine learning, and computer vision.
+## Research Interests
+
+- Machine Learning & Model Reliability
+- Explainability & Uncertainty Estimation
+- Medical AI, from Medical Imaging to Multimodal Learning
 
 <div align="center">
   <a href="mailto:jm_haddou@esi.dz">
@@ -28,16 +32,8 @@ Outside of work, I'm continuously improving my engineering skills through coding
   </a>
 </div>
 
-## 🛠️ Tech Stack
+## Technical Background
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,django,fastapi,vue,js,html,css,mysql,postgres,docker,git,linux,postman,aws" />
 </p>
-
-## 🎯 Currently Focusing On
-
-* Building scalable full-stack web applications
-* Software architecture and clean code
-* System design and backend engineering
-* Machine Learning & Computer Vision
-* Becoming a stronger software engineer every day
