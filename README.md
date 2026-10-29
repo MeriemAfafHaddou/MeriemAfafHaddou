@@ -4,21 +4,21 @@ Hi, I'm Meriem Afaf Haddou 👋
 
 <p align="center">
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=c77dff&center=true&width=650&lines=Computer+Science+Engineer;Software+Engineering+%26+Machine+Learning;Curious+about+what+lies+beneath+the+results" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=c77dff&center=true&width=650&lines=Computer+Science+Engineer;Machine+Learning+Research;Curious+about+what+lies+beneath+the+results" alt="Typing SVG" />
 </a>
 </p>
 
 ## About Me
 
-I'm a Computer Science Engineer with a background in software development and machine learning research. I enjoy digging into problems, questioning assumptions, and understanding what the results actually tell us.
+I'm a Computer Science Engineer with a background in software development and machine learning research. I like working through unfamiliar problems, questioning my assumptions, and following unexpected results to understand what the evidence actually tells us.
 
-My research experience includes concept drift detection, while my projects have led me to explore model reliability, uncertainty, and AI for medical applications.
+My research experience includes concept drift detection using optimal transport. I'm interested in exploring machine learning methods, understanding their behavior, and investigating the challenges involved in making AI systems more reliable.
 
 ## Research Interests
 
-- Machine Learning & Model Reliability
-- Explainability & Uncertainty Estimation
-- Medical AI, from Medical Imaging to Multimodal Learning
+- Reliable and Trustworthy AI
+- Distribution Shift & Concept Drift
+- Model Behavior, Uncertainty & Robustness
 
 <div align="center">
   <a href="mailto:jm_haddou@esi.dz">
